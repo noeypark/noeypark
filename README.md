@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Noey%20Github!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ECDFF5,100:AC86DA&height=180&section=header&text=Noey%20Github!&fontSize=40&fontAlignY=36&fontColor=ffffff)
 <br>
 <br>
 <div align="center">
@@ -57,3 +57,4 @@
 </div>
 </div>
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ECDFF5,100:AC86DA&height=150&section=footer&text=&fontSize=90)
