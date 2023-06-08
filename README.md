@@ -46,10 +46,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeypark&langs_count=6&layout=compact&hide_border=true&theme=dracula&hide=CSS,html,SCSS" /> </a>
+  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeypark&langs_count=6&layout=compact&hide_border=true&theme=buefy&hide=CSS,html,SCSS" /> </a>
 	<br>
 	<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noeypark&show_icons=true&theme=dracula&hide="/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noeypark&show_icons=true&theme=buefy&hide="/>
  <br>
  <br>
 </div>
