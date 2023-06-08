@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ECDFF5,100:AC86DA&height=180&section=header&text=Noey%20Github!&fontSize=40&fontAlignY=36&fontColor=ffffff)
-<br>
-<br>
 <div align="center">
   <img src="https://i.pinimg.com/originals/5a/08/d7/5a08d7cb8dbb2ae84cec776f6c56eb13.gif" width="450px" height="auto">
   <br>
