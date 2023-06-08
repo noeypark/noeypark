@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/5a/08/d7/5a08d7cb8dbb2ae84cec776f6c56eb13.gif" width="450px" height="auto">
   <br>
   <br>
-  <p>✨Remember: you are made of star-stuff and nobody can take that away✨</p>
+  <p>✨<strong>Remember:</strong> you are made of star-stuff and nobody can take that away✨</p>
   <p>🌙 소통과 협업을 중요시하는 백엔드 개발자</p>
   <br>
   <h2>📚 Tech Stack 📚</h2>
